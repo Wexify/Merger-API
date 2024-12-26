@@ -1,4 +1,4 @@
-# FFmpeg API (FFAPI)
+# Merger API
 
 This API allows you to run FFmpeg commands with various customization options, including downloading and uploading files in chunks, managing job concurrency, and automating the deletion of output files after a specified TTL (Time-to-Live).
 
