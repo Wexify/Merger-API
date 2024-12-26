@@ -1,4 +1,4 @@
-## FFAPI File Upload API Documentation
+## Merger File Upload API Documentation
 
 This document describes the `/upload/:fileId` endpoint of the FFAPI for uploading files.
 
